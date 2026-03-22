@@ -1,18 +1,22 @@
 <h1 align="center">Hi 👋, I'm Aryan Raj</h1>
 <h3 align="center">
-🚀 Aspiring Software Developer | C | Java | Frontend Developer (HTML, CSS, JavaScript, React) | DSA Enthusiast | Problem Solver | IEEE Published Author 
+🚀 Aspiring Software Developer | Java | DSA | Full Stack Developer
 </h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;DSA+in+Java+💻;Full+Stack+Developer;Always+Learning+🚀"/>
+</p>
 
 ---
 
 ## 🌟 About Me
 
-* 🎓 CSE Student at KIIT University
-* 💻 I solve Data Structures & Algorithms using **Java**
-* 🌱 Currently learning **Full Stack + Advanced DSA**
-* 🧠 Passionate about **Problem Solving & Competitive Programming**
-* 📚 IEEE Published Author
-* ⚡ Goal: Crack top product-based companies
+- 🎓 CSE Student at KIIT University  
+- 💻 Solving Data Structures & Algorithms using **Java**  
+- 🌱 Learning **Full Stack Development + Advanced DSA**  
+- 🧠 Passionate about **Problem Solving & Competitive Programming**  
+- 📚 IEEE Published Author  
+- ⚡ Goal: Crack top product-based companies  
 
 ---
 
@@ -20,13 +24,16 @@
 
 <p align="center">
   <a href="https://leetcode.com/aryan_uijwal_0/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
+    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
   </a>
   <a href="https://neetcode.io/profile">
-    <img src="https://img.shields.io/badge/NeetCode-Profile-blue?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/NeetCode-blue?style=for-the-badge"/>
   </a>
   <a href="https://www.geeksforgeeks.org/user/aryanujjwal/">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-green?style=for-the-badge&logo=geeksforgeeks"/>
+    <img src="https://img.shields.io/badge/GeeksforGeeks-green?style=for-the-badge&logo=geeksforgeeks"/>
+  </a>
+  <a href="https://www.linkedin.com/in/aryan-ujjwal">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
 
@@ -52,37 +59,34 @@
 
 ## 🛠️ Tech Stack
 
-* 💻 Languages: C, Java, JavaScript
-* 🌐 Frontend: HTML, CSS, React
-* ⚙️ Backend: Node.js, Express
-* 🗄️ Database: MongoDB
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,java,js,html,css,react,nodejs,express,mongodb" />
+</p>
 
 ---
 
 ## 🌐 Connect with Me
 
-* 💼 LinkedIn: www.linkedin.com/in/aryan-ujjwal
-* 📧 Email: [23053267@kiit.ac.in](mailto:23053267@kiit.ac.in)
-
----
-
-## 🚀 Fun Animation
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;DSA+in+Java+💻;Full+Stack+Developer;Always+Learning+🚀"/>
+  <a href="https://www.linkedin.com/in/aryan-ujjwal">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:23053267@kiit.ac.in">
+    <img src="https://img.shields.io/badge/Email-Send-red?style=for-the-badge&logo=gmail"/>
+  </a>
 </p>
-
----
-
-## 💡 Conclusion
-
-⭐ Passionate developer focused on building scalable applications and solving real-world problems using DSA and modern web technologies.
-🚀 Continuously learning, growing, and striving to achieve excellence in software development.
 
 ---
 
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/AryanRaj20032005/AryanRaj20032005-output/raw/main/dist/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/AryanRaj20032005/AryanRaj20032005-output/output/github-contribution-grid-snake.svg"/>
 </p>
+
+---
+
+## 💡 Quote
+
+> ⭐ “Consistency beats talent when talent doesn’t work hard.”  
+> 🚀 Keep learning, keep building!
