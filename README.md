@@ -78,3 +78,11 @@
 
 ⭐ Passionate developer focused on building scalable applications and solving real-world problems using DSA and modern web technologies.
 🚀 Continuously learning, growing, and striving to achieve excellence in software development.
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/AryanRaj20032005/AryanRaj20032005-output/blob/main/dist/github-contribution-grid-snake.svg"/>
+</p>
