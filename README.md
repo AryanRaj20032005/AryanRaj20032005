@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aryan Raj</h1>
 <h3 align="center">
-🚀 Aspiring Software Developer | C | Java | Frontend Developer (HTML, CSS, JavaScript, React) | DSA Enthusiast | Problem Solver | IEEE Published Author | NSS Volunteer at KIIT University
+🚀 Aspiring Software Developer | C | Java | Frontend Developer (HTML, CSS, JavaScript, React) | DSA Enthusiast | Problem Solver | IEEE Published Author |
 </h3>
 
 ---
