@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aryan Raj</h1>
 <h3 align="center">
-🚀 Aspiring Software Developer | C | Java | Frontend Developer (HTML, CSS, JavaScript, React) | DSA Enthusiast | Problem Solver | IEEE Published Author |
+🚀 Aspiring Software Developer | C | Java | Frontend Developer (HTML, CSS, JavaScript, React) | DSA Enthusiast | Problem Solver | IEEE Published Author 
 </h3>
 
 ---
@@ -9,7 +9,7 @@
 
 * 🎓 CSE Student at KIIT University
 * 💻 I solve Data Structures & Algorithms using **Java**
-* 🌱 Currently learning **MERN Stack + Advanced DSA**
+* 🌱 Currently learning **Full Stack + Advanced DSA**
 * 🧠 Passionate about **Problem Solving & Competitive Programming**
 * 📚 IEEE Published Author
 * ⚡ Goal: Crack top product-based companies
@@ -69,7 +69,7 @@
 ## 🚀 Fun Animation
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;DSA+in+Java+💻;MERN+Stack+Developer;Always+Learning+🚀"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;DSA+in+Java+💻;Full+Stack+Developer;Always+Learning+🚀"/>
 </p>
 
 ---
