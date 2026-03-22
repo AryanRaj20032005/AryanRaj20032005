@@ -61,7 +61,7 @@
 
 ## 🌐 Connect with Me
 
-* 💼 LinkedIn: https://linkedin.com/in/your-link
+* 💼 LinkedIn: www.linkedin.com/in/aryan-ujjwal
 * 📧 Email: [23053267@kiit.ac.in](mailto:23053267@kiit.ac.in)
 
 ---
