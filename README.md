@@ -84,5 +84,5 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/AryanRaj20032005/AryanRaj20032005-output/blob/main/dist/github-contribution-grid-snake.svg"/>
+  <img src="https://github.com/AryanRaj20032005/AryanRaj20032005-output/raw/main/dist/github-contribution-grid-snake.svg"/>
 </p>
