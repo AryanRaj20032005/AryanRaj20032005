@@ -42,7 +42,7 @@
 ## 📊 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/aryan_ujjwal_0?theme=dark&font=Baloo&ext=heatmap"/>
+  <img src="https://leetcard.jacoblin.cool/aryan_ujjwal_0?theme=dark&font=Baloo&ext=heatmap&site=cn"/>
 </p>
 
 ---
