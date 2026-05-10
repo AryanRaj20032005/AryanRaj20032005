@@ -23,7 +23,7 @@
 ## 🧠 Coding Profiles
 
 <p align="center">
-  <a href="https://leetcode.com/u/aryan_ujwal_0/">
+  <a href="https://leetcode.com/u/aryan_ujjwal_0/">
     <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
   </a>
   <a href="https://neetcode.io/profile">
